@@ -1,0 +1,4 @@
+name: gutenberg-practice
+recipe: wordpress
+config:
+  webroot: .
